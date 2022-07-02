@@ -5,13 +5,13 @@ The Greed game is about catching Gems and avoiding Rocks that fall from the top 
 
 ## Project Structure: 
 ###### root                          (Root folder of the project)
-###### +-- game                      (Greed game source code)
-######   +-- casting                 (Specific Game Classes)
-######   +-- directing               (Specific Game Classes)
-######   +-- services                (Specific Game Classes)
-######   +-- shared                  (Specific Game Classes)
-###### +-- __main__.py               (Class to start up the program)
-###### ++- README.md                 (General information)
+###### +-- game         (Greed game source code)
+######   +-- casting    (Specific Game Classes)
+######   +-- directing  (Specific Game Classes)
+######   +-- services   (Specific Game Classes)
+######   +-- shared     (Specific Game Classes)
+###### +-- __main__.py  (Class to start up the program)
+###### ++- README.md    (General information)
 
 ## Required Software: 
 Python 3. Modules required: random, pyray
